@@ -1,5 +1,5 @@
 # COVID-19-analysis-using-R
-In this project a dataset containing daily confirmed cases and deaths globally and in each country individual was used in order to find relations between them.This was a 15 page report for the "Programming tools & techniques for data analysis" course in PhD program of National Technical university of Athens(NTUA)
+In this project a dataset containing daily confirmed cases and deaths globally and in each country individual was used in order to find relations between them.<br/> This was a 15 page report for the "Programming tools & techniques for data analysis" course in PhD program of National Technical university of Athens(NTUA)<br/>
 ***Project Grade 10/10***
 1. The dataset was taken from <br/>
 a)https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv \

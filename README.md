@@ -8,6 +8,6 @@ for confirmed cases <br/> b)https://raw.githubusercontent.com/CSSEGISandData/COV
 - [x] Code available for professor's tasks in [assignment.Rmd](assignment.Rmd)  
 - [ ] Code not available for self-implemented analysis that is extra from the assignment.  
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/dzaridis/COVID-19-analysis-using-R/blob/main/Figures/comparison%20of%20Sweden%2CUK%20and%20Greece.png)
 This was a 15 page report for the "Programming tools & techniques for data analysis" course in PhD program of National Technical university of Athens(NTUA)
 Project Grade 10/10

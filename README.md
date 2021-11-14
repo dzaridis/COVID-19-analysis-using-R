@@ -13,5 +13,3 @@ for confirmed cases <br/> b)https://raw.githubusercontent.com/CSSEGISandData/COV
 ![alt text](https://github.com/dzaridis/COVID-19-analysis-using-R/blob/main/Figures/top5%20countries.png)
 ![alt text](https://github.com/dzaridis/COVID-19-analysis-using-R/blob/main/Figures/Rich%20european%20countries%20comparison.png)
 ![alt text](https://github.com/dzaridis/COVID-19-analysis-using-R/blob/main/Figures/Rich%20european%20countries%20comparison%202.png)
-This was a 15 page report for the "Programming tools & techniques for data analysis" course in PhD program of National Technical university of Athens(NTUA)
-Project Grade 10/10

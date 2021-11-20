@@ -8,7 +8,7 @@ for confirmed cases <br/> b)https://raw.githubusercontent.com/CSSEGISandData/COV
 4. in this way valuable information extracted about the way each country or even continent responded to the COVID-19 pandemic on 2020.  
 - [x] Code available for professor's tasks in [assignment.Rmd](assignment.Rmd)  
 - [ ] Code not available for self-implemented analysis that is extra from the assignment.  
-- Below are presented som of the results from the data analysis. For extended description of the results do not hesitate to open [Covid analysis report.pdf](https://github.com/dzaridis/COVID-19-analysis-using-R/blob/main/Covid%20analysis%20report.pdf)
+- Below are presented some of the results from the data analysis. For extended description of the results do not hesitate to open [Covid analysis report.pdf](https://github.com/dzaridis/COVID-19-analysis-using-R/blob/main/Covid%20analysis%20report.pdf)
 ![Comparison of Sweden,UK and Greece](https://github.com/dzaridis/COVID-19-analysis-using-R/blob/main/Figures/comparison%20of%20Sweden%2CUK%20and%20Greece.png)
 ![alt text](https://github.com/dzaridis/COVID-19-analysis-using-R/blob/main/Figures/top5%20countries.png)
 ![alt text](https://github.com/dzaridis/COVID-19-analysis-using-R/blob/main/Figures/Rich%20european%20countries%20comparison.png)

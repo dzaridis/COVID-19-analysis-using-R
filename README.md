@@ -9,7 +9,7 @@ for confirmed cases <br/> b)https://raw.githubusercontent.com/CSSEGISandData/COV
 - [x] Code available for professor's tasks in [assignment.Rmd](assignment.Rmd)  
 - [ ] Code not available for self-implemented analysis that is extra from the assignment.  
 - Below are presented some of the results from the data analysis. For extended description of the results do not hesitate to open [Covid analysis report.pdf](https://github.com/dzaridis/COVID-19-analysis-using-R/blob/main/Covid%20analysis%20report.pdf)
-![Comparison of Sweden,UK and Greece](https://github.com/dzaridis/COVID-19-analysis-using-R/blob/main/Figures/comparison%20of%20Sweden%2CUK%20and%20Greece.png)
+<img src="Figures/comparison%20of%20Sweden%2CUK%20and%20Greece.png" width="100" height="100">
 ![alt text](Figures/top5%20countries.png)
 ![alt text](Figures/Rich%20european%20countries%20comparison.png)
 ![alt text](Figures/Rich%20european%20countries%20comparison%202.png)
